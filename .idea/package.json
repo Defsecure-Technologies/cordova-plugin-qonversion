@@ -1,0 +1,17 @@
+{
+  "name": "Qonversion",
+  "version": "0.0.1",
+  "description": "Qonversion",
+  "cordova": {
+    "id": "cordova-plugin-qonversion",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
